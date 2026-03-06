@@ -1,9 +1,3 @@
-## Hi there 👋
-
-<!--
-**lifewradix/lifewradix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-# 💫 About Me:
 Hi, I'm Benjamin Garweg Garkouth 👋<br><br>I'm a computer enthusiast and aspiring software developer passionate about building things with code and exploring new technologies. I enjoy working on projects that combine software, creativity, and problem solving.<br><br>Currently, I’m focused on improving my skills in Python and Java, while also learning more about web development, app development, and software engineering. I love experimenting with ideas and turning them into real projects.<br><br>Some of the things I enjoy working on include:<br><br>💻 Building web apps and tools<br><br>🧠 Learning new programming concepts<br><br>🚀 Developing creative tech projects<br><br>🎮 Exploring game development<br><br>🤖 Experimenting with AI-powered applications<br><br>I'm always looking to learn, collaborate, and build meaningful projects that solve real problems.<br><br>Skills<br><br>Python<br><br>Java<br><br>Basic Web Development<br><br>Problem Solving<br><br>Software Development Concepts<br><br>Goals<br><br>My goal is to become a professional Computer Scientist and Software Developer, creating innovative applications and technologies that can impact people’s lives.<br><br>Contact<br><br>📧 Email: radixgamer1945@gmail.com
 
 
